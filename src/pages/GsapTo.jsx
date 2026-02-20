@@ -9,6 +9,7 @@ const GsapTo = () => {
       duration: 2,
     });
   });
+
   return (
     <main>
       <h1>GsapTo</h1>
